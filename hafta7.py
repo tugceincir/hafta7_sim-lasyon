@@ -20,10 +20,10 @@ def hilelizar(n):
             e+= 1
         else:
             f+=1
-    print("a sayısı" ,a/6)
-    print("b sayısı", b/ 6)
-    print("c sayısı", c / 6)
-    print("d sayısı", d/ 6)
-    print("e sayısı", e/ 6)
-    print("f sayısı", f/6)
+    print("a sayısı" ,a/n)
+    print("b sayısı", b/ n)
+    print("c sayısı", c / n)
+    print("d sayısı", d/ n)
+    print("e sayısı", e/ n)
+    print("f sayısı", f/n)
 hilelizar(360)
